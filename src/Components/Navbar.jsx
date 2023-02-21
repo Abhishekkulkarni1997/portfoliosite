@@ -5,7 +5,7 @@ function Navbar() {
   return (
 
 
-<header className="p-4 bg-transparent text-gray-100">
+<header className="p-4 bg-transparent text-gray-100 sticky top-0 z-40 backdrop-blur supports-backdrop-blur:bg-violet-400 bg-zinc-900 ">
     <div className="container flex justify-between h-16 mx-auto">
       <NavLink rel="noopener noreferrer" to="/home" aria-label="Back to homepage" className="flex items-center p-2" >
         <h5 className='hover:text-violet-400'>@Abhishekkulkarni1997</h5>
