@@ -2,6 +2,7 @@
 module.exports = {
   /* content: ["./src/Components/*.{html,css, js, jsx}"], */
   content: ["./src/components/**/*.jsx"],
+  purge: ["./src/components/**/*.{js,jsx}", "./public/index.html"],
   theme: {
     extend: {},
   },
