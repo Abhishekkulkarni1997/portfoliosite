@@ -18,7 +18,8 @@ function Projectssection() {
                   <Link rel="noopener noreferrer" to="https://github.com/Abhishekkulkarni1997/PaytmClone" aria-label="Te nulla oportere reprimique his dolorum"></Link>
                   <Link rel="noopener noreferrer" to="https://github.com/Abhishekkulkarni1997/PaytmClone" className="text-xs tracking-wider uppercase hover:underline text-violet-400">Hit me Up</Link>
                   <h3 className="flex-1 py-2 text-lg font-semibold leading-snug">Paytm Clone</h3>
-                  <div className="flex flex-wrap justify-end pt-3 space-x-2 text-xs text-gray-400">
+                  <div className="flex flex-wrap justify-between pt-3 space-x-2 text-xs text-gray-400">
+                    <span>Live &#128308;</span>
                     <span className='hover:text-violet-400 cursor-pointer'><Link to="https://github.com/Abhishekkulkarni1997/PaytmClone">GitHub Code</Link></span>
                   </div>
                 </div>
@@ -31,7 +32,8 @@ function Projectssection() {
                   <Link rel="noopener noreferrer" to="https://rodeclonefsjs.netlify.app/" aria-label="Te nulla oportere reprimique his dolorum"></Link>
                   <Link rel="noopener noreferrer" to="https://rodeclonefsjs.netlify.app/" className="text-xs tracking-wider uppercase hover:underline text-violet-400">Hit me Up</Link>
                   <h3 className="flex-1 py-2 text-lg font-semibold leading-snug">Rode Clone</h3>
-                  <div className="flex flex-wrap justify-end pt-3 space-x-2 text-xs text-gray-400">
+                  <div className="flex flex-wrap justify-between pt-3 space-x-2 text-xs text-gray-400">
+                  <span>Live &#128994;</span>
                   <span className='hover:text-violet-400 cursor-pointer'><Link to="https://github.com/Abhishekkulkarni1997/rodeClone">GitHub Code</Link></span>
                   </div>
                 </div>
@@ -44,7 +46,8 @@ function Projectssection() {
                   <Link rel="noopener noreferrer" to="https://project15-productdesign-landing-page.netlify.app/" aria-label="Te nulla oportere reprimique his dolorum"></Link>
                   <Link rel="noopener noreferrer" to="https://project15-productdesign-landing-page.netlify.app/" className="text-xs tracking-wider uppercase hover:underline text-violet-400">Hit me Up</Link>
                   <h3 className="flex-1 py-2 text-lg font-semibold leading-snug">Product Design Landing Page</h3>
-                  <div className="flex flex-wrap justify-end pt-3 space-x-2 text-xs text-gray-400">
+                  <div className="flex flex-wrap justify-between pt-3 space-x-2 text-xs text-gray-400">
+                  <span>Live &#128994;</span>
                   <span className='hover:text-violet-400 cursor-pointer'><Link to="https://github.com/Abhishekkulkarni1997/project-15-Product-Design-Landing-Page">GitHub Code</Link></span>
                   </div>
                 </div>
@@ -57,7 +60,8 @@ function Projectssection() {
                   <Link rel="noopener noreferrer" to="https://project13-saaslanding-page.netlify.app/" aria-label="Te nulla oportere reprimique his dolorum"></Link>
                   <Link rel="noopener noreferrer" to="https://project13-saaslanding-page.netlify.app/" className="text-xs tracking-wider uppercase hover:underline text-violet-400">Hit me Up</Link>
                   <h3 className="flex-1 py-2 text-lg font-semibold leading-snug">SAAS Landing Page</h3>
-                  <div className="flex flex-wrap justify-end pt-3 space-x-2 text-xs text-gray-400">
+                  <div className="flex flex-wrap justify-between pt-3 space-x-2 text-xs text-gray-400">
+                  <span>Live &#128994;</span>
                   <span className='hover:text-violet-400 cursor-pointer'><Link to="https://github.com/Abhishekkulkarni1997/project-13-SAAS-landing-page">GitHub Code</Link></span>
                   </div>
                 </div>
