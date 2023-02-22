@@ -15,6 +15,7 @@ function Navbar() {
       <NavLink rel="noopener noreferrer" to="/home" aria-label="Back to homepage" className="flex items-center p-2" >
         <h5 className='hover:text-violet-400'>@Abhishekkulkarni1997</h5>
       </NavLink >
+      // nav menu for desktop and mobile device
       {click ? <ul className="flex flex-col md:flex-row">
         <li className="flex">
           <NavLink rel="noopener noreferrer" to="/home" className="flex items-center px-4 -mb-1 border-b-2 border-transparent hover:text-violet-400" style={({ isActive }) => ({
