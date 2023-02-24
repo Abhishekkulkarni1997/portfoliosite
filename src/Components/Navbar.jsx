@@ -12,12 +12,12 @@ function Navbar() {
 
 <header className="p-4 bg-transparent text-gray-100 sticky top-0 z-40 backdrop-blur supports-backdrop-blur:bg-violet-400 bg-zinc-900 ">
     <div className="container flex justify-between h-16 mx-auto">
-      <NavLink rel="noopener noreferrer" to="/home" aria-label="Back to homepage" className="flex items-center p-2" >
-        <h5 className='hover:text-violet-400'>@Abhishekkulkarni1997</h5>
+      <NavLink rel="noopener noreferrer" to="/home" aria-label="Back to homepage" className="flex items-center p-2 " >
+        <h5 className='hover:text-violet-400 relative z-10'>@AbhishekKulkarni1997</h5>
       </NavLink >
-      {click ? <ul className="flex flex-col md:flex-row">
+      {click ? <ul className="flex flex-col items-center justify-start space-y-6 w-[325px] h-[300px] z-20 bg-zinc-900/95 md:flex-row absolute">
         <li className="flex">
-          <NavLink rel="noopener noreferrer" to="/home" className="flex items-center px-4 -mb-1 border-b-2 border-transparent hover:text-violet-400" style={({ isActive }) => ({
+          <NavLink rel="noopener noreferrer" to="/home" className="flex items-center px-4 -mb-1 border-b-2 border-transparent hover:text-violet-400 mt-[50px]" style={({ isActive }) => ({
     color: isActive ? ' #a78bfa' : ' #ffffff',
   })}>Home</NavLink>
         </li>
