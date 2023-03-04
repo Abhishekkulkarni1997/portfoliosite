@@ -12,7 +12,7 @@ function Projectssection() {
             <div className="grid grid-cols-1 gap-x-4 gap-y-8 md:grid-cols-2 lg:grid-cols-4">
               <article className="flex flex-col bg-transparent">
                 <Link rel="noopener noreferrer" to="https://github.com/Abhishekkulkarni1997/PaytmClone" aria-label="Te nulla oportere reprimique his dolorum">
-                  <img alt="" className="object-cover w-full h-52 bg-gray-500" src={require('../resources/paytmclone.jpg')} />
+                  <img alt="paytmclone" className="object-cover w-full h-52 bg-gray-500" src={require('../resources/paytmclone.jpg')} />
                 </Link>
                 <div className="flex flex-col flex-1 p-6">
                   <Link rel="noopener noreferrer" to="https://github.com/Abhishekkulkarni1997/PaytmClone" aria-label="Te nulla oportere reprimique his dolorum"></Link>
@@ -26,7 +26,7 @@ function Projectssection() {
               </article>
               <article className="flex flex-col bg-gray-900">
                 <Link rel="noopener noreferrer" to="https://rodeclonefsjs.netlify.app/" aria-label="Te nulla oportere reprimique his dolorum">
-                  <img alt="" className="object-cover w-full h-52 bg-gray-500" src={require('../resources/rodeclone.jpg')} />
+                  <img alt="rodeclone" className="object-cover w-full h-52 bg-gray-500" src={require('../resources/rodeclone.jpg')} />
                 </Link>
                 <div className="flex flex-col flex-1 p-6">
                   <Link rel="noopener noreferrer" to="https://rodeclonefsjs.netlify.app/" aria-label="Te nulla oportere reprimique his dolorum"></Link>
@@ -40,7 +40,7 @@ function Projectssection() {
               </article>
               <article className="flex flex-col bg-gray-900">
                 <Link rel="noopener noreferrer" to="https://project15-productdesign-landing-page.netlify.app/" aria-label="Te nulla oportere reprimique his dolorum">
-                  <img alt="" className="object-cover w-full h-52 bg-gray-500" src={require('../resources/productdesign.jpg')} />
+                  <img alt="productdesign" className="object-cover w-full h-52 bg-gray-500" src={require('../resources/productdesign.jpg')} />
                 </Link>
                 <div className="flex flex-col flex-1 p-6">
                   <Link rel="noopener noreferrer" to="https://project15-productdesign-landing-page.netlify.app/" aria-label="Te nulla oportere reprimique his dolorum"></Link>
@@ -54,12 +54,12 @@ function Projectssection() {
               </article>
               <article className="flex flex-col bg-gray-900">
                 <Link rel="noopener noreferrer" to="https://project12-business-landingpage.netlify.app/" aria-label="Te nulla oportere reprimique his dolorum">
-                  <img alt="" className="object-cover w-full h-52 bg-gray-500" src={require('../resources/SAAS.jpg')} />
+                  <img alt="calculatorApp" className="object-cover w-full h-52 bg-gray-500" src={require('../resources/calculatorApp.jpg')} />
                 </Link>
                 <div className="flex flex-col flex-1 p-6">
-                  <Link rel="noopener noreferrer" to="https://project13-saaslanding-page.netlify.app/" aria-label="Te nulla oportere reprimique his dolorum"></Link>
-                  <Link rel="noopener noreferrer" to="https://project13-saaslanding-page.netlify.app/" className="text-xs tracking-wider uppercase hover:underline text-violet-400">Hit me Up</Link>
-                  <h3 className="flex-1 py-2 text-lg font-semibold leading-snug">SAAS Landing Page</h3>
+                  <Link rel="noopener noreferrer" to="https://calculatorapp-ak.netlify.app/" aria-label="Te nulla oportere reprimique his dolorum"></Link>
+                  <Link rel="noopener noreferrer" to="https://calculatorapp-ak.netlify.app/" className="text-xs tracking-wider uppercase hover:underline text-violet-400">Hit me Up</Link>
+                  <h3 className="flex-1 py-2 text-lg font-semibold leading-snug">Calculator App</h3>
                   <div className="flex flex-wrap justify-between pt-3 space-x-2 text-xs text-gray-400">
                   <span>Live &#128994;</span>
                   <span className='hover:text-violet-400 cursor-pointer'><Link to="https://github.com/Abhishekkulkarni1997/project-13-SAAS-landing-page">GitHub Code</Link></span>
