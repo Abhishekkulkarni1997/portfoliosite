@@ -53,7 +53,7 @@ function Projectssection() {
                 </div>
               </article>
               <article className="flex flex-col bg-gray-900">
-                <Link rel="noopener noreferrer" to="https://project12-business-landingpage.netlify.app/" aria-label="Te nulla oportere reprimique his dolorum">
+                <Link rel="noopener noreferrer" to="https://calculatorapp-ak.netlify.app/" aria-label="Te nulla oportere reprimique his dolorum">
                   <img alt="calculatorApp" className="object-cover w-full h-52 bg-gray-500" src={require('../resources/calculatorApp.jpg')} />
                 </Link>
                 <div className="flex flex-col flex-1 p-6">
